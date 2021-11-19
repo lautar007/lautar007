@@ -10,8 +10,10 @@ If you are here, you may want to see my codes 👀. Go ahead, look my repositori
 
 ### Let's Talk ###
 If something about me is interesting for you, and you think i can job for your team, don't doubt to contact me. 
-LinkedIn: https://www.linkedin.com/in/lautaro-nu%C3%B1ez-117a3b18b/
-Email: kautarol@gmail.com
+#### LinkedIn ####
+https://www.linkedin.com/in/lautaro-nu%C3%B1ez-117a3b18b/
+#### Email #### 
+kautarol@gmail.com
 
 
 <!--
