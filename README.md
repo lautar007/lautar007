@@ -8,7 +8,7 @@ I'm 25 years old, argentinian 🇦🇷 . I love music, cinema, writing and espec
 
 If you are here, you may want to see my codes 👀. Go ahead, look my repositories. I'm always searching for new ways to improve my programming and have good practices about it.{
 
-###Let's Talk###
+### Let's Talk ###
 If something about me is interesting for you, and you think i can job for your team, don't doubt to contact me. 
 LinkedIn: https://www.linkedin.com/in/lautaro-nu%C3%B1ez-117a3b18b/
 Email: kautarol@gmail.com
