@@ -6,7 +6,7 @@ I'm 25 years old, argentinian 🇦🇷 . I love music, cinema, writing and espec
 
 ![Always Happen](https://i.pinimg.com/564x/a8/f8/93/a8f893a5f40158f54eaf4ddb1b2feb2b.jpg)
 
-If you are here, you may want to see my codes 👀. Go ahead, look my repositories. I'm always searching for new ways to improve my programming and have good practices about it.{
+If you are here, you may want to see my codes 👀. Go ahead, look my repositories. I'm always searching for new ways to improve my programming and have good practices about it.
 
 ### Let's Talk ###
 If something about me is interesting for you, and you think I can job for your team, don't doubt to contact me. 
