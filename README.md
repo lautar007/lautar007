@@ -2,7 +2,7 @@
 
 # Hi, I'm Lautaro 👋 🖖 #
 
-I'm 27 years old, argentinian 🇦🇷 . I love music, cinema, writing and especially the world of programming 👾 🤖 👽, I'm always dabbling through new projects to prove my knowledge and learn some more each day 💪. As an audiovisual producer, i have a creative spirit and a lot of curiosity for new ways to communicate and develop 🖥️ 🖱️.
+I'm 28 years old, argentinian 🇦🇷 . I love music, cinema, writing and especially the world of programming 👾 🤖 👽, I'm always dabbling through new projects to prove my knowledge and learn some more each day 💪. As an audiovisual producer, i have a creative spirit and a lot of curiosity for new ways to communicate and develop 🖥️ 🖱️.
 
 ![Always Happen](https://i.pinimg.com/564x/a8/f8/93/a8f893a5f40158f54eaf4ddb1b2feb2b.jpg)
 
